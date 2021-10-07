@@ -1,0 +1,33 @@
+{
+   "count":1,
+   "color":"#008000",
+   "title":"Brandler Orlando",
+   "icon":"imp-laugh",
+   "icon_back":"imp-laugh",
+   "contents":[
+      "subtitle | Medium half-orc",
+      "rule",
+      "property | Armor class | 17 (studded leather armor)",
+      "property | Hit points | 50",
+      "property | Speed | 30 ft.",
+      "rule",
+      "dndstats | 15 | 16 | 14 | 14 | 11 | 14",
+      "rule",
+      "property | Saving Throws | Str +4, Dex +5, Wis +2",
+      "property | Skills | Athletics +4, Deception +4",
+      "property | Senses | passive Perception 10",
+      "property | Languages | any two languages",
+      "property | Challenge | 2 (450 XP)",
+      "rule",
+      "section | Actions",
+      "description | Multiattack | The captain makes three melee attacks: two with its scimitar and one with its dagger. Or the captain makes two ranged attacks with its daggers.",
+      "description | Scimitar | <i>Melee Weapon Attack:</i> <span class=\"roller render-roller\" title=\"Click to roll. SHIFT to roll with advantage, CTRL to roll with disadvantage.\"  onmousedown=\"event.preventDefault()\" data-packed-dice='{&quot;type&quot;:&quot;dice&quot;,&quot;rollable&quot;:true,&quot;displayText&quot;:&quot;+5&quot;,&quot;toRoll&quot;:&quot;1d20+5&quot;,&quot;subType&quot;:&quot;d20&quot;,&quot;d20mod&quot;:&quot;+5&quot;,&quot;context&quot;:{&quot;type&quot;:&quot;hit&quot;}}' >+5</span> to hit, reach 5 ft., one target. <i>Hit:</i> 6 (<span class=\"roller render-roller\" title=\"Click to roll. SHIFT to roll a critical hit, CTRL to half damage (rounding down).\"  onmousedown=\"event.preventDefault()\" data-packed-dice='{&quot;type&quot;:&quot;dice&quot;,&quot;rollable&quot;:true,&quot;toRoll&quot;:&quot;1d6 + 3&quot;,&quot;subType&quot;:&quot;damage&quot;}' >1d6 + 3</span>) slashing damage.",
+      "description | Dagger | <i>Melee  or Ranged Weapon Attack:</i> <span class=\"roller render-roller\" title=\"Click to roll. SHIFT to roll with advantage, CTRL to roll with disadvantage.\"  onmousedown=\"event.preventDefault()\" data-packed-dice='{&quot;type&quot;:&quot;dice&quot;,&quot;rollable&quot;:true,&quot;displayText&quot;:&quot;+5&quot;,&quot;toRoll&quot;:&quot;1d20+5&quot;,&quot;subType&quot;:&quot;d20&quot;,&quot;d20mod&quot;:&quot;+5&quot;,&quot;context&quot;:{&quot;type&quot;:&quot;hit&quot;}}' >+5</span> to hit, reach 5 ft. or range 20/60 ft., one target. <i>Hit:</i> 5 (<span class=\"roller render-roller\" title=\"Click to roll. SHIFT to roll a critical hit, CTRL to half damage (rounding down).\"  onmousedown=\"event.preventDefault()\" data-packed-dice='{&quot;type&quot;:&quot;dice&quot;,&quot;rollable&quot;:true,&quot;toRoll&quot;:&quot;1d4 + 3&quot;,&quot;subType&quot;:&quot;damage&quot;}' >1d4 + 3</span>) piercing damage.",
+      "section | Reactions",
+      "description | Parry | The captain adds 2 to its AC against one melee attack that would hit it. To do so, the captain must see the attacker and be wielding a melee weapon."
+   ],
+   "tags":[
+      "humanoid",
+      "Medium"
+   ]
+}
